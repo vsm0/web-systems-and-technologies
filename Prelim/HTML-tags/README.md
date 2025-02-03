@@ -30,7 +30,10 @@ __Example:__
 </html>
 ```
 
-Save your project in your group's repository and leaders must send the SSH link of your project with coresponding group number on the class' Telegram group chat.
+>__Please fork the repository first before cloning into your workbench.__
 
-> **NOTE:**
-> __Failure to submit on time will receive a failed grade for this project.__
+Push made project to the forked repository for checking. Leaders must send the SSH link of your project with coresponding group number on the class' Telegram group chat.
+
+># **NOTE:**
+>## __Failure to submit on time will receive a failed grade for this project.__
+---
